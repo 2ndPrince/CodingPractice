@@ -9,7 +9,7 @@
 MEDIUM; BFS
 
 
-(2) 286. Walls and Gates DFS
+(2) 286. Walls and Gates DFS. 
 
 MEDIUM; DFS
 
