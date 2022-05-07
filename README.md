@@ -4,20 +4,20 @@
 
 ### 2D Array
 
-> 286. Walls and Gates
+286. Walls and Gates
 MEDIUM; BFS
 
-> 286. Walls and Gates DFS
+286. Walls and Gates DFS
 MEDIUM; DFS
 
 ### Linked List
 
-> 206. Reverse a Linked List
+206. Reverse a Linked List
 EASY; 
 // Input: head = [1,2,3,4,5]
 // Output: [5,4,3,2,1]
 
->> 92. Reverse Linked List II (M, N Reversals)
++ 92. Reverse Linked List II (M, N Reversals)
 MEDIUM; 
 // Input: head = [1,2,3,4,5], left = 2, right = 4
 // Output: [1,4,3,2,5]
