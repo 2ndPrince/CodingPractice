@@ -1,6 +1,6 @@
 # CodingPractice
 
-## By Topics
+## 2D Array
 
 | Topic | Question | Difficulty | Techniques | Solution |
 | ----- | -------- | ---------- | ---------- | -------- |
@@ -12,27 +12,12 @@
 
 ---
 
-### 2D Array
-
-(1) 286. Walls and Gates
-
-MEDIUM; BFS
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Difficulty | Medium |
-| Technique | BFS |
-
-
-(2) 286. Walls and Gates DFS
-
-MEDIUM; DFS
-
-| Difficulty | Medium |
-| Technique | DFS |
-
-
 ### Linked List
+
+| Topic | Question | Difficulty | Techniques | Solution |
+| ----- | -------- | ---------- | ---------- | -------- |
+|Linked List|[206. Reverse a Linked Lists](https://leetcode.com/problems/reverse-linked-list/)|EASY|  | [CLICK](./essentials/206-Reverse-Linked-Lists.java)
+|Linked List|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium| DFS | [CLICK](./essentials/286-Walls-And-Gates-DFS.java)
 
 (1) 206. Reverse a Linked List
 
