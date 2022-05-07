@@ -8,10 +8,18 @@
 
 MEDIUM; BFS
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Difficulty | Medium |
+| Technique | BFS |
+
 
 (2) 286. Walls and Gates DFS
 
 MEDIUM; DFS
+
+| Difficulty | Medium |
+| Technique | DFS |
 
 
 ### Linked List
