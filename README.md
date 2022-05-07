@@ -34,6 +34,16 @@ MEDIUM;
 // Input: head = [1,2,3,4,5], left = 2, right = 4
 // Output: [1,4,3,2,5]
 
+---
+
+### Stack
+
+| Topic | Question | Difficulty | Techniques | Solution |
+| ----- | -------- | ---------- | ---------- | -------- |
+|Stack|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|EASY|  | [CLICK](./essentials/20-Valid-Parentheses.java)
+|Stack|[1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|Medium| Critical Thinking | [CLICK](./essentials/1249-Minimum-Remove-to-Make-Valid-Parentheses.java)
+
+---
 
 ## Resources
 
