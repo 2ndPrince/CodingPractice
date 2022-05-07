@@ -4,7 +4,7 @@
 
 | Topic | Question | Difficulty | Techniques | Solution |
 | ----- | -------- | ---------- | ---------- | -------- |
-|2D Array|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium| BFS | [CLICK](./essentials/286-Walls-And-Gates.java)
+|2D Array|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium| BFS | [CLICK](./essentials/286-Walls-And-Gates-BFS.java)
 |2D Array|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium| DFS | [CLICK](./essentials/286-Walls-And-Gates-DFS.java)
 
 
