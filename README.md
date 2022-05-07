@@ -6,6 +6,9 @@
 | ----- | -------- | ---------- | ---------- | -------- |
 |2D Array|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium| BFS | [CLICK](./essentials/286-Reverse-Linked-List.java)
 
+
+![Walls and Gates](./images/286-Walls-and-Gates.png)
+
 ### 2D Array
 
 (1) 286. Walls and Gates
