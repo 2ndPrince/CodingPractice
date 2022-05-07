@@ -4,7 +4,7 @@
 
 ### 2D Array
 
-* 286. Walls and Gates
+> 286. Walls and Gates
 MEDIUM; BFS
 
 - 286. Walls and Gates DFS
