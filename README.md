@@ -4,7 +4,7 @@
 
 | Topic | Question | Difficulty | Techniques | Solution |
 | ----- | -------- | ---------- | ---------- | -------- |
-|2D Array|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium| BFS | [CLICK](./essentials/206. Reverse Linked List.java)
+|2D Array|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium| BFS | [CLICK](./essentials/286-Reverse-Linked-List.java)
 
 ### 2D Array
 
