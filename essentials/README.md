@@ -4,7 +4,7 @@
 | ----- | -------- | ---------- | ---------- | -------- |
 |2D Array|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium| BFS | [CLICK](./286-Walls-And-Gates-BFS.java)
 |2D Array|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium| DFS | [CLICK](./286-Walls-And-Gates-DFS.java)
-| ----- | -------- | ---------- | ---------- | -------- |
+|  |  |  |  |  |
 |Linked List|[206. Reverse a Linked Lists](https://leetcode.com/problems/reverse-linked-list/)|EASY|  | [CLICK](./206-Reverse-Linked-Lists.java)
 |Linked List|[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium| DFS | [CLICK](./286-Walls-And-Gates-DFS.java)
 | ----- | -------- | ---------- | ---------- | -------- |
