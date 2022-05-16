@@ -10,4 +10,8 @@
 |  |  |  |  |  |
 |Stack|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|EASY|  | [CLICK](./20-Valid-Parentheses.java)
 |Stack|[1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|Medium| Critical Thinking | [CLICK](./1249-Minimum-Remove-to-Make-Valid-Parentheses.java)
+|  |  |  |  |  |
+|String|[2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/contest/weekly-contest-293/problems/find-resultant-array-after-removing-anagrams/)|EASY|Two Pointers|  |
+
+
 
